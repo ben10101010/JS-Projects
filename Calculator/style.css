@@ -1,0 +1,194 @@
+body {
+  background-color: lightblue;
+}
+
+center {
+  color: black;
+  margin-left: 5px
+}
+
+.blackThing {
+  background-color: blue;
+}
+
+.roundButton {
+  border-radius: 100px
+}
+
+blue {
+  background-color: blue
+}
+
+red {
+  background-color: red
+}
+
+.roundButtonRed {
+  background-color: red;
+  border-radius: 100px
+}
+
+.roundButtonBlue {
+  background-color: blue;
+  border-radius: 100px
+}
+
+.NumberCalc {
+  background-color: white;
+  text-align: right;
+  block-size: 50px;
+  font-size: 40px;
+  width: 250px;
+  height: 40px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+
+.calcBackground {
+  background-color: black;
+  width: 250px;
+  height: 300px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.calcButton7 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 675px;
+  top: 150px;
+  grid-auto-rows: 100px;
+}
+
+.calcButton8 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 728px;
+  top: 150px;
+}
+
+.calcButton9 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 780px;
+  top: 150px;
+  grid-auto-rows: 100px;
+}
+
+.calcButton4 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 675px;
+  top: 200px;
+}
+
+.calcButton5 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 728px;
+  top: 200px;
+}
+
+.calcButton6 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 780px;
+  top: 200px;
+}
+
+.calcButton3 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 675px;
+  top: 250px;
+}
+
+.calcButton2 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 728px;
+  top: 250px;
+}
+
+.calcButton1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 780px;
+  top: 250px;
+}
+
+.decButton{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 675px;
+  top: 300px;
+}
+
+.calcButton0 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 728px;
+  top: 300px;
+}
+
+.checkButton {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 780px;
+  top: 300px;
+}
+
+.divideButton {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 830px;
+  top: 268px;
+}
+
+.addButton {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 830px;
+  top: 305px;
+}
+
+.acButton {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 830px;
+  top: 150px;
+}
+
+.multButton {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 830px;
+  top: 190px;
+}
+
+.subButton {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 830px;
+  top: 230px;
+}
